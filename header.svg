@@ -59,11 +59,11 @@
           }
         }
 
-        #nujiak {
+        #header {
           margin: 0;
           width: fit-content;
           animation-name: rotate;
-          animation-duration: 13s;
+          animation-duration: 9s;
           animation-iteration-count: infinite;
           animation-direction: alternate;
           -webkit-background-clip: text !important;
@@ -76,9 +76,9 @@
         }
 
         #kj {
-          margin: 0;
+          margin: -0.5rem 0;
           animation-name: rotateReverse;
-          animation-duration: 11s;
+          animation-duration: 8s;
           animation-iteration-count: infinite;
           animation-direction: alternate;
           animation-timing-function: linear;
@@ -97,9 +97,9 @@
       </style>
 
       <div id="body">
-        <h1 id="nujiak">Nujiak</h1>
+        <h1 id="header">Hello</h1>
 
-        <h4 id="kj">(Kai Jun)</h4>
+        <h4 id="kj">I'm Kai Jun</h4>
       </div>
     </div>
   </foreignObject>
