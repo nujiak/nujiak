@@ -19,17 +19,6 @@
             background-position: 0% 100%;
           }
 
-          33% {
-            transform: rotate(-1.67deg);
-            background-position: 0% 0%;
-          }
-
-          67% {
-            transform: rotate(1.67deg);
-            background-position: 0% 100%;
-
-          }
-
           100% {
             transform: rotate(5deg);
             background-position: 0% 0%;
@@ -42,17 +31,6 @@
             background-position: 0% 100%;
           }
 
-          33% {
-            transform: rotate(1.67deg);
-            background-position: 0% 0%;
-
-          }
-
-          67% {
-            transform: rotate(-1.67deg);
-            background-position: 0% 100%;
-          }
-
           100% {
             transform: rotate(-5deg);
             background-position: 0% 0%;
@@ -60,46 +38,38 @@
         }
 
         #header {
-          margin: 0;
           width: fit-content;
           animation-name: rotate;
-          animation-duration: 9s;
-          animation-iteration-count: infinite;
-          animation-direction: alternate;
-          -webkit-background-clip: text !important;
-          -webkit-text-fill-color: transparent;
-          background-size: 100% 400% !important;
-          animation-timing-function: linear;
-          background: linear-gradient(135deg, rgba(212, 255, 137, 1) 0%, rgba(137, 255, 209, 1) 29%, rgba(84, 147, 255, 1) 66%, rgba(181, 160, 255, 1) 100%);
+          animation-duration: 7s;
           letter-spacing: -0.6rem;
-          padding: 0 1rem;
         }
 
-        #kj {
+        #greeting {
           margin: -0.5rem 0;
           animation-name: rotateReverse;
-          animation-duration: 8s;
-          animation-iteration-count: infinite;
-          animation-direction: alternate;
-          animation-timing-function: linear;
-          -webkit-background-clip: text !important;
-          -webkit-text-fill-color: transparent;
-          background-size: 100% 400% !important;
-          background: linear-gradient(135deg, rgba(212, 255, 137, 1) 0%, rgba(137, 255, 209, 1) 29%, rgba(84, 147, 255, 1) 66%, rgba(181, 160, 255, 1) 100%);
+          animation-duration: 9s;
           font-size: 2rem;
           letter-spacing: -0.1rem;
-          padding: 0 1rem;
         }
 
         h1, h4 {
+          margin: 0;
+          padding: 0 1rem;
           text-shadow: 0 0.3rem 0.5rem rgba(255, 255, 255, 0.2);
+          animation-iteration-count: infinite;
+          animation-timing-function: cubic-bezier(.79,0,.23,.99);
+          -webkit-background-clip: text !important;
+          -webkit-text-fill-color: transparent;
+          animation-direction: alternate;
+          background-size: 100% 400% !important;
+          background: linear-gradient(135deg, rgba(212,255,137,1) 0%, rgba(136,255,198,1) 17%, rgba(110,200,233,1) 33%, rgba(119,167,255,1) 50%, rgba(127,131,255,1) 66%, rgba(144,129,255,1) 81%, rgba(181,160,255,1) 100%);
         }
       </style>
 
       <div id="body">
         <h1 id="header">Hello</h1>
 
-        <h4 id="kj">I'm Kai Jun</h4>
+        <h4 id="greeting">I'm Kai Jun</h4>
       </div>
     </div>
   </foreignObject>
