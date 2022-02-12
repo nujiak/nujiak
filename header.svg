@@ -40,24 +40,25 @@
         #header {
           width: fit-content;
           animation-name: rotate;
-          animation-duration: 7s;
+          animation-duration: 6s;
           letter-spacing: -0.6rem;
         }
 
         #greeting {
           margin: -0.5rem 0;
           animation-name: rotateReverse;
-          animation-duration: 9s;
+          animation-duration: 7s;
           font-size: 2rem;
           letter-spacing: -0.1rem;
         }
 
         h1, h4 {
+          border: none;
           margin: 0;
           padding: 0 1rem;
           text-shadow: 0 0.3rem 0.5rem rgba(255, 255, 255, 0.2);
           animation-iteration-count: infinite;
-          animation-timing-function: cubic-bezier(.79,0,.23,.99);
+          animation-timing-function: cubic-bezier(.5,0,.5,1);
           -webkit-background-clip: text !important;
           -webkit-text-fill-color: transparent;
           animation-direction: alternate;

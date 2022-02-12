@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="Nujiak (Kai Jun)">
+  <img src="header.svg" alt="Hello">
 </div>
 
 Hi, I'm Chua Kai Jun :wave:. I'm in my Second Year of taking my BComp in Computer Science in the National University of Singapore :school:
