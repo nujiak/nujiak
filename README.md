@@ -2,7 +2,7 @@
   <img src="header.svg" alt="Hello">
 </div>
 
-Hi, I'm Chua Kai Jun! :wave: I'm in the Second Year of taking my BComp in Computer Science :computer: in the National University of Singapore.
+Hi, I'm Chua Kai Jun! :wave: I'm in the Final Year of taking my BComp in Computer Science :computer: at the National University of Singapore.
 
 - :world_map: Developer of [Recce](https://github.com/nujiak/recce)
 - :rocket: Experienced in Backend Development, Web Development and Mobile Frontend Development
