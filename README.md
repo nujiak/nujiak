@@ -23,6 +23,9 @@ Hi, I'm Chua Kai Jun! :wave: I'm in the Second Year of taking my BComp in Comput
 <a href="https://github.com/nujiak/recce">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nujiak&repo=recce&show_owner=true">
 </a>
+<a href="https://github.com/nujiak/logic-solver">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nujiak&repo=logic-solver&show_owner=true">
+</a>
 <a href="https://github.com/nujiak/wordevle">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nujiak&repo=wordevle&show_owner=true">
 </a>
