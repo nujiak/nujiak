@@ -5,9 +5,10 @@
 Hi, I'm Chua Kai Jun! :wave: I'm in the Second Year of taking my BComp in Computer Science :computer: in the National University of Singapore.
 
 - :world_map: Developer of [Recce](https://github.com/nujiak/recce)
-- :rocket: Experienced in Web and Mobile Frontend Development
-- :zap: Worked with Android SDK, Flutter, React, and more 
-- 🧑🏽 Read my [portfolio](https://nujiak.com)
+- :rocket: Experienced in Backend Development, Web Development and Mobile Frontend Development
+- :zap: Worked with .NET, Android SDK, Flutter, React, and more 
+- :necktie: Connect with me on [LinkedIn](https://www.linkedin.com/in/chuakj)
+- :technologist: Check out my [portfolio](https://nujiak.com)
 
 ## :bar_chart: Stats
 
