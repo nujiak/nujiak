@@ -13,7 +13,7 @@ Hi, I'm Chua Kai Jun! :wave: I'm in the Second Year of taking my BComp in Comput
 ## :bar_chart: Stats
 
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=nujiak&count_private=true&show_icons=true&theme=vue" alt="Nujiak's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=nujiak&count_private=true&show_icons=true&theme=vue&hide_rank=true" alt="Nujiak's GitHub stats">
 </a>
 <a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nujiak&layout=compact&langs_count=6" alt="Most used languages">
